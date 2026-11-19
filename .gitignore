@@ -1,0 +1,15 @@
+# dependensi & hasil build (main.js dibuat otomatis oleh GitHub Actions saat rilis)
+node_modules/
+main.js
+*.js.map
+
+# data pribadi Obsidian (CPPT pasien, catatan, progres) — jangan pernah diunggah
+data.json
+cadangan-medpro-*.json
+
+# sistem
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/

@@ -1,0 +1,55 @@
+/* ==========================================================
+   MedPro All In One — shell (navigasi, topbar, laci HP)
+   ========================================================== */
+.mp { --mp-brand: #0d9488; --mp-brand2: #0891b2; }
+.mp-brand { padding: 2px 6px 12px; }
+.mp-brand-mark { width: 38px; height: 38px; border-radius: 12px; display: grid; place-items: center; color: #fff; background: linear-gradient(135deg, var(--mp-brand), var(--mp-brand2)); box-shadow: 0 8px 18px -10px var(--mp-brand); flex: none; }
+.mp-brand-mark svg { width: 21px; height: 21px; }
+.mp-brand-t { display: flex; flex-direction: column; line-height: 1.05; flex: 1; min-width: 0; }
+.mp-brand-name { font-size: 1.2em; font-weight: 900; letter-spacing: -0.03em; background: linear-gradient(90deg, var(--mp-brand), var(--mp-brand2)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.mp-brand-sub { font-size: 10.5px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--text-faint); }
+.mp .mp-nav-close { display: none; }
+.mp-nav { overflow-y: auto; scrollbar-width: thin; }
+.mp-nav-list { gap: 1px; }
+.mp .mp-nav-item .mp-nav-ic { width: 26px; height: 26px; border-radius: 8px; display: grid; place-items: center; color: var(--c, var(--text-muted)); background: color-mix(in srgb, var(--c, var(--mp-accent)) 11%, transparent); flex: none; }
+.mp .mp-nav-item .mp-nav-ic svg { width: 15px; height: 15px; }
+.mp .mp-nav-item.is-active { background: color-mix(in srgb, var(--c, var(--mp-accent)) 13%, transparent); color: color-mix(in srgb, var(--c, var(--mp-accent)) 80%, var(--text-normal)); }
+.mp .mp-nav-item.is-active .mp-nav-ic { background: var(--c, var(--mp-accent)); color: #fff; }
+.mp .mp-nav-item { gap: 9px; padding: 6px 8px; }
+.mp-topbar { display: none; }
+.mp-scrim { display: none; }
+@container mp (max-width: 760px) { .mp-brand-t { display: none; } }
+/* HP: navigasi jadi laci, topbar muncul */
+@container mp (max-width: 560px) {
+	.mp-nav { position: absolute; z-index: 30; top: 0; bottom: 0; left: 0; width: 260px; padding: 14px 10px; align-items: stretch; transform: translateX(-105%); transition: transform .25s ease; box-shadow: 10px 0 40px -20px rgba(0, 0, 0, .5); }
+	.mp-nav .mp-brand-t, .mp-nav .mp-nav-label, .mp-nav .mp-nav-group { display: flex; }
+	.mp .mp-nav .mp-brand-t { flex-direction: column; }
+	.mp .mp-nav .mp-brand-name { display: block; }
+	.mp-nav .mp-nav-group { display: block; }
+	.mp .mp-nav-item { justify-content: flex-start; padding: 8px; }
+	.mp .mp-nav-count { position: static; font-size: 11px; padding: 0 7px; line-height: 18px; }
+	.mp .mp-nav-close { all: unset; display: grid; place-items: center; width: 32px; height: 32px; border-radius: 10px; cursor: pointer; color: var(--text-muted); }
+	.mp-drawer-open .mp-nav { transform: none; }
+	.mp-drawer-open .mp-scrim { display: block; position: absolute; inset: 0; z-index: 25; background: rgba(0, 0, 0, .35); animation: mp-page-in .2s; }
+	.mp-topbar { display: flex; align-items: center; gap: 8px; position: sticky; top: 0; z-index: 10; padding: 8px 10px; background: color-mix(in srgb, var(--mp-surface) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--mp-line); }
+	.mp .mp-menu-btn { all: unset; cursor: pointer; width: 36px; height: 36px; border-radius: 10px; display: grid; place-items: center; color: var(--text-normal); }
+	.mp .mp-menu-btn:active { background: var(--mp-panel); }
+	.mp-topbar-t { flex: 1; display: flex; align-items: center; gap: 7px; font-weight: 800; font-size: 15px; min-width: 0; }
+	.mp-topbar-ic { display: inline-flex; color: var(--mp-brand); }
+	.mp-topbar-ic svg { width: 17px; height: 17px; }
+	.mp-page { padding: 14px 14px 70px; }
+	.mp-mx-top { top: 52px; }
+	.mp-mx-tabs { top: 94px; }
+}
+/* beranda MedPro: 6 ubin & 10 alat */
+.mp-mh-big { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.mp-mh-tools { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+.mp-mh-import.is-hidden { display: none; }
+@container mp (max-width: 860px) { .mp-mh-tools { grid-template-columns: repeat(5, minmax(0, 1fr)); } }
+@container mp (max-width: 620px) { .mp-mh-big { grid-template-columns: 1fr 1fr; } }
+@container mp (max-width: 420px) { .mp-mh-tools { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 4px; } .mp .mp-mh-tool { padding: 8px 2px; } .mp-mh-tool-ic { width: 30px; height: 30px; font-size: 15px; } .mp-mh-tool-t { font-size: 9.5px; } }
+/* HP: judul halaman di baris sendiri, tombol aksi di bawahnya */
+@container mp (max-width: 560px) {
+	.mp .mp-mx-pagehead { flex-wrap: wrap; }
+	.mp .mp-mx-pagehead > .mp-grow { flex: 1 1 100%; }
+}

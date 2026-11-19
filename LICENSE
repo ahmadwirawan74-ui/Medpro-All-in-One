@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 ahmadwirawan74-ui
+Copyright (c) 2026 Ahmad Wirawan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+Lisensi MIT di atas hanya berlaku untuk kode sumber plugin. Data dan font pihak
+ketiga yang dibundel (teks Al-Qur'an & terjemahan, hadits, harakat, font) tunduk
+pada lisensinya masing-masing — lihat THIRD_PARTY_NOTICES.md dan folder licenses/.

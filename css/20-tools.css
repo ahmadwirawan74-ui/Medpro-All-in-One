@@ -1,0 +1,12 @@
+/* ---------- Kalkulator antidot ---------- */
+.mp-ad-chips { margin-top: 4px; }
+.mp-ad-body { display: flex; flex-direction: column; gap: 10px; padding-top: 4px; }
+.mp-ad-head { display: flex; align-items: center; gap: 10px; }
+.mp-ad-ic { width: 42px; height: 42px; border-radius: 13px; display: grid; place-items: center; font-size: 22px; background: color-mix(in srgb, #475569 12%, transparent); flex: none; }
+.mp-ad-name { font-size: 15px; }
+.mp-ad-form { flex-wrap: wrap; }
+.mp-ad-lines { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 8px; }
+.mp-ad-line { padding: 10px 12px; border-radius: 14px; border: 1px solid var(--mp-line); background: linear-gradient(160deg, color-mix(in srgb, #0d9488 7%, var(--mp-surface)), var(--mp-surface)); display: flex; flex-direction: column; gap: 3px; animation: mp-md-up .3s ease both; }
+.mp-ad-val { font-size: 1.15em; font-weight: 850; color: #0f766e; font-variant-numeric: tabular-nums; }
+.mp-ad-out { display: flex; flex-direction: column; gap: 8px; }
+.mp-ad-note { color: var(--text-muted); }

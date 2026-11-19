@@ -1,0 +1,532 @@
+Abdominal lymph nodes.g	Lymph nodes.g
+Abdominal part of muscular system.g	Muscular system.g
+Abdominopelvic cavity.g	Visceral systems.g
+Accessory ligaments.g	Synovial joint.g
+Accessory visual structures.g	Eye.g
+Acromioclavicular joint.g	Synovial joints of pectoral girdle.g
+Adductor hallucis.g	Muscles of foot.g
+Amphiarthrosis.g	Joints.g
+Ankle joint.g	Synovial joints of free lower limb.g
+Antebrachial region.g	Regions of upper limb.g
+Anterior cervical nodes.g	Lymph nodes of neck.g
+Anterior compartment of arm.g	Muscles of upper limb.g
+Anterior compartment of forearm.g	Muscles of upper limb.g
+Anterior compartment of leg.g	Muscles of lower limb.g
+Anterior compartment of thigh.g	Muscles of lower limb.g
+Anterior funiculus.g	White matter of spinal cord.g
+Anterior horn of spinal cord.g	Grey matter of spinal cord.g
+Anterior rami of lumbar nerves.g	Lumbar nerves.g
+Anterior region of neck.g	Regions of neck.g
+Anterior region of thigh.g	Femoral region.g
+Anterior region of thorax.g	Regions of thorax.g
+Anterior tarsal tendon sheaths.g	Tendon sheaths of lower limb.g
+Anterior teeth.g	Teeth.g
+Anterolateral fasciculus.g	White matter of spinal cord.g
+Aorta.g	Systemic arteries.g
+Aortic bifurcation.g	Aorta.g
+Aortic valve.g	Root of aorta.g
+Appendicular skeleton.g	Skeletal system.g
+Arachnoid.g	Leptomeninges.g
+Arterial system.g	None
+Arteries of heart.g	Arterial system.g
+Arteries of spinal cord.g	Systemic arteries.g
+Articular capsule.g	Synovial joint.g
+Articular cavity.g	Synovial joint.g
+Articular fibrocartilage.g	Synovial joint.g
+Articular recess.g	Synovial joint.g
+Auditory ossicles.g	Skeletal system.g
+Auricular region.g	Regions of head.g
+Autonomic division of peripheral nervous system.g	Peripheral nervous system.g
+Axial skeleton.g	Skeletal system.g
+Axillary nodes.g	Lymph nodes of upper limb.g
+Ball and socket joint.g	Diarthrosis.g
+Basal forebrain.g	Telencephalon.g
+Basilar part of pons.g	Pons.r
+Biceps brachii muscle.g	Anterior compartment of arm.g
+Bicondylar joint.g	Diarthrosis.g
+Bones of cranium.g	Cranium.g
+Bones of foot.g	Bones of free part of lower limb.g
+Bones of free part of lower limb.g	Bones of lower limb.g
+Bones of free part of upper limb.g	Bones of upper limb.g
+Bones of hand.g	Bones of free part of upper limb.g
+Bones of lower limb.g	Skeletal system.g
+Bones of pectoral girdle.g	Bones of upper limb.g
+Bones of pelvic girdle.g	Bones of lower limb.g
+Bones of thorax.g	Thoracic skeleton.g
+Bones of upper limb.g	Skeletal system.g
+Bones of vertebral column.g	Vertebral column.g
+Bony pelvis.g	Skeletal system.g
+Brachial plexus.g	Spinal nerves.g
+Brachial region.g	Regions of upper limb.g
+Brain.g	Central nervous system.g
+Brainstem.g	Brain.g
+Branches of anterior part of lumbar plexus.g	Lumbar plexus.g
+Branches of hepatic portal vein.g	Hepatic portal vein.g
+Branches of lateral cord of brachial plexus.g	Brachial plexus.g
+Branches of medial cord of brachial plexus.g	Brachial plexus.g
+Branches of posterior cord of brachial plexus.g	Brachial plexus.g
+Branches of posterior part of lumbar plexus.g	Lumbar plexus.g
+Bronchi.g	Tracheobronchial tree.g
+Bursae of head.g	Cranial part of muscular system.g
+Bursae of lower limb.g	Muscular system of lower limb.g
+Bursae of upper limb.g	Muscular system of upper limb.g
+Cardiac veins.g	Venous system.g
+Carpal bones.g	Bones of free part of upper limb.g
+Carpal region.g	Regions of upper limb.g
+Carpal tendon sheaths.g	Tendon sheaths of upper limb.g
+Carpometacarpal joints.g	Joints of hand.g
+Cartilages of ear.g	Skeletal system.g
+Cartilaginous joints of pelvic girdle.g	Joints of pelvic girdle.g
+Cartilaginous joints of sternum.g	Cartilaginous joints of thorax.g
+Cartilaginous joints of thorax.g	Thoracic joints.g
+Cartilaginous joints of vertebral column.g	Joints of vertebral column.g
+Cartilaginous joints.g	Joints.g
+Cavity of bony thorax.g	Thoracic skeleton.g
+Central mesencephalic structures.g	Midbrain.g
+Central nervous system.g	Nervous system & Sense organs.g
+Central structures of spinal cord.g	Spinal cord.g
+Cerebellar peduncles.g	Cerebellum.g
+Cerebellum.g	Brain.g
+Cerebral arterial circle.g	Systemic arteries.g
+Cerebral hemisphere.g	Cerebrum.g
+Cerebral peduncle.g	Midbrain.g
+Cerebrum.g	Brain.g
+Cervical bursae.g	Cervical part of muscular system.g
+Cervical fasciae.g	Fasciae.g
+Cervical nerves.g	Spinal nerves.g
+Cervical part of muscular system.g	Muscular system.g
+Cervical plexus.g	Spinal nerves.g
+Cervical vertebrae.g	Vertebral column.g
+Colon.g	Large intestine.g
+Commissural fibres of telencephalon.g	White matter of telencephalon.l
+Common iliac nodes.g	Parietal pelvic lymph nodes.g
+Complex joint.g	Diarthrosis.g
+Confluence of sinuses.g	Transverse sinus.r
+Corpus striatum.g	Telencephalon.g
+Costal arch.g	Thoracic skeleton.g
+Costal cartilages.g	Thoracic skeleton.g
+Costochondral joints.g	Cartilaginous joints of thorax.g
+Costotransverse joint.g	Costovertebral joints.g
+Costovertebral joints.g	Synovial joints of thorax.g
+Cranial dura.g	Dura.g
+Cranial fibrous joints.g	Joints of skull.g
+Cranial nerves.g	Peripheral nervous system.g
+Cranial part of muscular system.g	Muscular system.g
+Cranial pia.g	Pia.g
+Cranial syndesmoses.g	Cranial fibrous joints.g
+Cranial veins.g	Systemic veins.g
+Craniosacral part of autonomic division.g	Autonomic division of peripheral nervous system.g
+Cranium.g	Skeletal system.g
+Crico-arytenoid joint.g	Synovial joints of larynx.g
+Cricothyroid joint.g	Synovial joints of larynx.g
+Cubital region.g	Regions of upper limb.g
+Cylindrical joints.g	Diarthrosis.g
+Deep anterior cervical nodes.g	Anterior cervical nodes.g
+Deep gluteal muscles.g	Muscles of lower limb.g
+Deep inguinal nodes.g	Inguinal nodes.g
+Deep parotid nodes.g	Lymph nodes of head.g
+Deep part of anterior compartment of forearm.g	Anterior compartment of forearm.g
+Deep part of posterior compartment of forearm.g	Posterior compartment of forearm.g
+Deep part of posterior compartment of leg.g	Posterior compartment of leg.g
+Deltoid muscle.g	Scapulohumeral muscles.g
+Denticulate suture.g	Sutures.g
+Diarthrosis.g	Joints.g
+Diencephalon.g	Cerebrum.g
+Digastric muscle.g	Suprahyoid muscles.g
+Digestive canal.g	Digestive system.g
+Digestive system.g	Visceral systems.g
+Distal radio-ulnar joint.g	Synovial joints of free upper limb.g
+Dorsal carpal tendon sheaths.g	Carpal tendon sheaths.g
+Dorsal part of muscular system.g	Muscular system.g
+Dorsal striatum.g	Corpus striatum.g
+Dura.g	Meninges.g
+Dural venous sinuses.g	Cranial veins.g
+Ear.g	Sense organs.g
+Elbow joint.g	Synovial joints of free upper limb.g
+Ellipsoid joint.g	Diarthrosis.g
+Endo-abdominal fascia.g	Fasciae of abdomen.g
+Endocrine glands.g	Visceral systems.g
+Epaxial muscles.g	Dorsal part of muscular system.g
+Ependyma.g	Central nervous system.g
+Epicranius muscle.g	Superficial muscles of head.g
+Erector spinae.g	Epaxial muscles.g
+External ear.g	Ear.g
+External iliac nodes.g	Parietal pelvic lymph nodes.g
+Extra-ocular muscles.g	Muscles of head.g
+Extracranial bones of head.g	Skeletal system.g
+Extrahepatic bile ducts.g	Digestive system.g
+Extrinsic auricular muscles.g	Superficial muscles of head.g
+Eye.g	Sense organs.g
+Eyeball.g	Eye.g
+Facial bones.g	Axial skeleton.g
+Facial muscles.g	Superficial muscles of head.g
+Facial nodes.g	Lymph nodes of head.g
+False ribs.g	Ribs.g
+Fasciae of abdomen.g	Fasciae.g
+Fasciae of head.g	Fasciae.g
+Fasciae of lower limb.g	Fasciae.g
+Fasciae of thorax.g	Fasciae.g
+Fasciae of upper limb.g	Fasciae.g
+Fasciae.g	None
+Fauces.g	Digestive system.g
+Femoral region.g	Regions of lower limb.g
+Fibro-elastic membrane of larynx.g	Fibrous joints of larynx.g
+Fibrous joints of free lower limb.g	Joints of free lower limb.g
+Fibrous joints of free upper limb.g	Joints of free upper limb.g
+Fibrous joints of larynx.g	Laryngeal joints.g
+Fibrous joints of pectoral girdle.g	Joints of pectoral girdle.g
+Fibrous joints of pelvic girdle.g	Joints of pelvic girdle.g
+Fibrous joints of thorax.g	Thoracic joints.g
+Fibrous joints of vertebral column.g	Joints of vertebral column.g
+Fibrous joints.g	Joints.g
+Fibular tarsal tendon sheaths.g	Tendon sheaths of lower limb.g
+Flexor hallucis brevis.g	Muscles of foot.g
+Floating ribs.g	False ribs.g
+Frontal lobe.g	Telencephalon.g
+Ganglia.g	Peripheral nervous system.g
+General terms.g	None
+Genital systems.g	Visceral systems.g
+Glenohumeral joint.g	Synovial joints of free upper limb.g
+Gluteal nodes.g	Internal iliac nodes.g
+Gluteal region.g	Regions of lower limb.g
+Gomphosis.g	Syndesmoses.g
+Greater pelvis.g	Bony pelvis.g
+Grey matter of pontine tegmentum.g	Tegmentum of pons.g
+Grey matter of spinal cord.g	Spinal cord.g
+Grey matter of tegmentum of midbrain.g	Tegmentum of midbrain.g
+Grey matter.g	Central nervous system.g
+Hairs.g	Regions of human body.g
+Heart.g	Arterial system.g
+Hepatic nodes.g	Visceral abdominal lymph nodes.g
+Hepatic portal vein.g	Systemic veins.g
+Hip joint.g	Synovial joints of free lower limb.g
+Humero-ulnar joint.g	Elbow joint.g
+Humeroradial joint.g	Elbow joint.g
+Hypaxial muscles of back.g	Dorsal part of muscular system.g
+Hypophysis.g	Endocrine glands.g
+Iliocostalis muscles.g	Erector spinae.g
+Iliopsoas muscle.g	Muscles of lower limb.g
+Inferior deep lateral cervical nodes.g	Lateral cervical nodes.g
+Inferior lobar artery of left lung.g	Left pulmonary artery
+Inferior mesenteric nodes.g	Visceral abdominal lymph nodes.g
+Inferior thoracic aperture.g	Thoracic skeleton.g
+Infrahyoid muscles.g	Muscles of neck.g
+Infrahyoid nodes.g	Deep anterior cervical nodes.g
+Infrahyoid region.g	Anterior region of neck.g
+Infrasternal angle.g	Thoracic skeleton.g
+Inguinal nodes.g	Lymph nodes of lower limb.g
+Insula.g	Telencephalon.g
+Intercarpal joints.g	Joints of hand.g
+Interchondral joints.g	Synovial joints of thorax.g
+Intercostal space.g	Thoracic skeleton.g
+Interlobar sulci.g	Telencephalon.g
+Intermediate zone of spinal cord.g	Grey matter of spinal cord.g
+Intermetacarpal joints.g	Joints of hand.g
+Intermetatarsal joints.g	Joints of foot.g
+Internal ear.g	Ear.g
+Internal iliac nodes.g	Parietal pelvic lymph nodes.g
+Interosseous ligament.g	Syndesmoses.g
+Interosseous membrane.g	Syndesmoses.g
+Interphalangeal joints of foot.g	Joints of foot.g
+Interphalangeal joints of hand.g	Joints of hand.g
+Interspinales muscles.g	Epaxial muscles.g
+Intertarsal joints.g	Joints of foot.g
+Intertransversarii muscles.g	Epaxial muscles.g
+Intervertebral symphysis.g	Cartilaginous joints of vertebral column.g
+Intrinsic auricular muscles.g	Muscles of head.g
+Joint of head of rib.g	Costovertebral joints.g
+Joints of auditory ossicles.g	Joints.g
+Joints of foot.g	Synovial joints of free lower limb.g
+Joints of free lower limb.g	Joints of lower limb.g
+Joints of free upper limb.g	Joints of upper limb.g
+Joints of hand.g	Synovial joints of free upper limb.g
+Joints of lower limb.g	Joints.g
+Joints of pectoral girdle.g	Joints of upper limb.g
+Joints of pelvic girdle.g	Joints of lower limb.g
+Joints of skull.g	Joints.g
+Joints of upper limb.g	Joints.g
+Joints of vertebral column.g	Joints.g
+Joints.g	None
+Knee joint.g	Synovial joints of free lower limb.g
+Knee region.g	Regions of lower limb.g
+Lacrimal apparatus.g	Accessory visual structures.g
+Large intestine.g	Digestive canal.g
+Laryngeal cartilages.g	Skeletal system.g
+Laryngeal joints.g	Joints.g
+Laryngeal muscles.g	Muscles of neck.g
+Larynx.g	Respiratory system.g
+Lateral atlanto-axial joint.g	Synovial joints of vertebral column.g
+Lateral cervical nodes.g	Lymph nodes of neck.g
+Lateral collateral ligament of ankle.g	Ankle joint.g
+Lateral compartment of leg.g	Muscles of lower limb.g
+Lateral funiculus.g	White matter of spinal cord.g
+Lateral region of neck.g	Regions of neck.g
+Left atrioventricular valve.g	Valvular complex of heart.g
+Left lumbar nodes.g	Parietal abdominal lymph nodes.g
+Left lung.g	Lungs.g
+Leptomeninges.g	Meninges.g
+Lesser pelvis.g	Bony pelvis.g
+Levator ani.g	Pelvic diaphragm.g
+Levatores costarum.g	Muscles of thorax.g
+Ligaments of epiglottis.g	Fibrous joints of larynx.g
+Limbic lobe.g	Telencephalon.g
+Limbous suture.g	Sutures.g
+Linea terminalis.g	Bony pelvis.g
+Longissimus muscles.g	Erector spinae.g
+Longitudinal planes.g	Reference planes.g
+Lumbar nerves.g	Spinal nerves.g
+Lumbar plexus.g	Lumbosacral plexus.g
+Lumbar vertebrae.g	Vertebral column.g
+Lumbosacral plexus.g	Spinal nerves.g
+Lumbosacral symphysis.g	Cartilaginous joints of vertebral column.g
+Lungs.g	Respiratory system.g
+Lymph nodes of head.g	Lymph nodes.g
+Lymph nodes of lower limb.g	Lymph nodes.g
+Lymph nodes of neck.g	Lymph nodes.g
+Lymph nodes of upper limb.g	Lymph nodes.g
+Lymph nodes.g	Secondary lymphoid organs.g
+Lymphoid organs.g	None
+Major salivary glands.g	Salivary glands.g
+Male external genitalia.g	Male genital system.g
+Male genital system.g	Genital systems.g
+Male internal genitalia.g	Male genital system.g
+Mandibular nerve.g	Trigeminal nerve (V).r
+Masticatory muscles.g	Muscles of head.g
+Medial collateral ligament of ankle.g	Ankle joint.g
+Medial compartment of thigh.g	Muscles of lower limb.g
+Median atlanto-axial joint.g	Synovial joints of vertebral column.g
+Mediastinal lymph nodes.g	Thoracic lymph nodes.g
+Meninges.g	Central nervous system.g
+Metacarpal bones.g	Bones of free part of upper limb.g
+Metacarpophalangeal joints.g	Joints of hand.g
+Metatarsal bones.g	Bones of foot.g
+Metatarsophalangeal joints.g	Joints of foot.g
+Midbrain.g	Brainstem.g
+Middle ear.g	Ear.g
+Movements.g	None
+Multifidus muscles.g	Transversospinal muscles.g
+Muscles of abdomen.g	Abdominal part of muscular system.g
+Muscles of auditory ossicles.g	Muscles of head.g
+Muscles of foot.g	Muscles of lower limb.g
+Muscles of hand.g	Muscles of upper limb.g
+Muscles of head.g	Cranial part of muscular system.g
+Muscles of lower limb.g	Muscular system of lower limb.g
+Muscles of neck.g	Cervical part of muscular system.g
+Muscles of pelvis.g	Pelvic part of muscular system.g
+Muscles of soft palate.g	Muscles of head.g
+Muscles of thorax.g	Thoracic part of muscular system.g
+Muscles of tongue.g	Muscles of head.g
+Muscles of upper limb.g	Muscular system of upper limb.g
+Muscles.g	Muscular system.g
+Muscular system of lower limb.g	Muscular system.g
+Muscular system of upper limb.g	Muscular system.g
+Muscular system.g	None
+Nasal cartilages.g	Skeletal system.g
+Nervous system & Sense organs.g	None
+Neurocranium.g	Axial skeleton.g
+Nose.g	Respiratory system.g
+Occipital lobe.g	Telencephalon.g
+Oculomotor complex.g	Grey matter of tegmentum of midbrain.g
+Orbital veins.g	Cranial veins.g
+Palate.g	Mouth.g
+Palmar carpal tendon sheaths.g	Carpal tendon sheaths.g
+Pancreatic nodes.g	Visceral abdominal lymph nodes.g
+Pancreaticoduodenal nodes.g	Visceral abdominal lymph nodes.g
+Paranasal sinuses.g	Respiratory system.g
+Parathyroid glands.g	Endocrine glands.g
+Paravesical nodes.g	Visceral pelvic lymph nodes.g
+Parietal abdominal lymph nodes.g	Abdominal lymph nodes.g
+Parietal lobe.g	Telencephalon.g
+Parietal pelvic lymph nodes.g	Pelvic lymph nodes.g
+Parietal thoracic lymph nodes.g	Thoracic lymph nodes.g
+Pectoral girdle.g	Skeleton of upper limbs.g
+Pectoralis major muscle.g	Muscles of thorax.g
+Pelvic cavity.g	Bony pelvis.g
+Pelvic diaphragm.g	Muscles of pelvis.g
+Pelvic girdle.g	Skeleton of lower limbs.g
+Pelvic inlet.g	Bony pelvis.g
+Pelvic lymph nodes.g	Lymph nodes.g
+Pelvic outlet.g	Bony pelvis.g
+Perineal muscles.g	Muscles of pelvis.g
+Peripheral nervous system.g	Nervous system & Sense organs.g
+Peritoneal cavity.g	Abdominopelvic cavity.g
+Peritoneal structures.g	Abdominopelvic cavity.g
+Peritoneum.g	Abdominopelvic cavity.g
+Pharyngeal lymphoid ring.g	Secondary lymphoid organs.g
+Pharyngeal muscles.g	Muscles of neck.g
+Pharynx.g	Digestive system.g
+Plane joint.g	Diarthrosis.g
+Plane suture.g	Sutures.g
+Popliteal nodes.g	Lymph nodes of lower limb.g
+Posterior compartment of arm.g	Muscles of upper limb.g
+Posterior compartment of forearm.g	Muscles of upper limb.g
+Posterior compartment of leg.g	Muscles of lower limb.g
+Posterior compartment of thigh.g	Muscles of lower limb.g
+Posterior funiculus.g	White matter of spinal cord.g
+Posterior horn of spinal cord.g	Grey matter of spinal cord.g
+Posterior rami of lumbar nerves.g	Lumbar nerves.g
+Posterior region of ankle.g	Talocrural region.g
+Posterior region of knee.g	Knee region.g
+Posterior teeth.g	Teeth.g
+Proximal radio-ulnar joint.g	Elbow joint.g
+Pubic arch.g	Bony pelvis.g
+Leg region.g	Regions of lower limb.g
+Radiocarpal joint.g	Synovial joints of free upper limb.g
+Reference lines.g	None
+Regions of abdomen.g	Regions of human body.g
+Regions of back.g	Regions of human body.g
+Regions of digits of foot.g	Regions of foot.g
+Regions of digits of hand.g	Regions of hand.g
+Regions of face.g	Regions of head.g
+Regions of foot.g	Regions of lower limb.g
+Regions of hand.g	Regions of upper limb.g
+Regions of lower limb.g	Regions of human body.g
+Regions of perineum.g	Regions of human body.g
+Regions of thorax.g	Regions of human body.g
+Regions of upper limb.g	Regions of human body.g
+Ribs.g	Bones of thorax.g
+Rotatores.g	Transversospinal muscles.g
+Sacro-iliac joint.g	Synovial joints of pelvic girdle.g
+Sacrococcygeal joint.g	Cartilaginous joints of vertebral column.g
+Saddle joint.g	Diarthrosis.g
+Sagittal planes.g	Longitudinal planes.g
+Scapulohumeral muscles.g	Muscles of upper limb.g
+Sense organs.g	Nervous system & Sense organs.g
+Simple joint.g	Diarthrosis.g
+Infraclavicular part of brachial plexus.g	Brachial plexus.g
+Mouth.g	Digestive system.g
+Pelvic part of muscular system.g	Muscular system.g
+Penis.g	Male external genitalia.g
+Phalanges of foot.g	Bones of foot.g
+Phalanges of hand.g	Bones of free part of upper limb.g
+Pia.g	Leptomeninges.g
+Primary lymphoid organs.g	Lymphoid organs.g
+Projection fibres of telencephalon.g	White matter of telencephalon.l
+Pulmonary arteries.g	Arterial system.g
+Pulmonary lymph nodes.g	Thoracic lymph nodes.g
+Pulmonary valve.g	Root of pulmonary trunk.g
+Pulmonary veins.g	Venous system.g
+Pyloric nodes.g	Visceral abdominal lymph nodes.g
+Radio-ulnar syndesmoses.g	Fibrous joints of free upper limb.g
+Reference planes.g	None
+Regions of epicranium.g	Regions of head.g
+Regions of head.g	Regions of human body.g
+Regions of human body.g	None
+Regions of neck.g	Regions of human body.g
+Respiratory system.g	Visceral systems.g
+Reticular formation.g	Central nervous system.g
+Right atrioventricular valve.g	Valvular complex of heart.g
+Right lumbar nodes.g	Parietal abdominal lymph nodes.g
+Right lung.g	Lungs.g
+Root of aorta.g	Valvular complex of heart.g
+Root of pulmonary trunk.g	Valvular complex of heart.g
+Roots of nerves.g	Peripheral nervous system.g
+Rotator cuff muscles.g	Scapulohumeral muscles.g
+Sacral plexus.g	Lumbosacral plexus.g
+Salivary glands.g	Mouth.g
+Schindylesis.g	Sutures.g
+Secondary lymphoid organs.g	Lymphoid organs.g
+Semispinalis muscles.g	Transversospinal muscles.g
+Serrate suture.g	Sutures.g
+Skeletal system.g	None
+Skeleton of free lower limb.g	Skeleton of lower limbs.g
+Skeleton of free upper limb.g	Skeleton of upper limbs.g
+Skeleton of lower limbs.g	Appendicular skeleton.g
+Skeleton of upper limbs.g	Appendicular skeleton.g
+Small intestine.g	Digestive canal.g
+Spinal cord.g	Central nervous system.g
+Spinal nerves.g	Peripheral nervous system.g
+Spinalis muscles.g	Erector spinae.g
+Spinotransversales muscles.g	Epaxial muscles.g
+Splenius muscles.g	Spinotransversales muscles.g
+Sternochondral joints.g	Synovial joints of thorax.g
+Sternochondral synchondrosis of first rib.g	Cartilaginous joints of thorax.g
+Sternoclavicular joint.g	Synovial joints of pectoral girdle.g
+Sternocleidomastoid region.g	Regions of neck.g
+Sternum.g	Bones of thorax.g
+Suboccipital muscles.g	Epaxial muscles.g
+Subpubic angle.g	Bony pelvis.g
+Superficial gluteal muscles.g	Muscles of lower limb.g
+Superficial inguinal nodes.g	Inguinal nodes.g
+Superficial muscles of head.g	Muscles of head.g
+Superficial part of anterior compartment of forearm.g	Anterior compartment of forearm.g
+Superficial part of posterior compartment of forearm.g	Posterior compartment of forearm.g
+Superficial part of posterior compartment of leg.g	Posterior compartment of leg.g
+Superior deep lateral nodes.g	Lateral cervical nodes.g
+Superior lobar artery of left lung.g	Left pulmonary artery
+Superior mesenteric nodes.g	Visceral abdominal lymph nodes.g
+Superior thoracic aperture.g	Thoracic skeleton.g
+Superior tibiofibular joint.g	Synovial joints of free lower limb.g
+Supraclavicular branches of brachial plexus.g	Brachial plexus.g
+Supraclavicular part of brachial plexus.g	Brachial plexus.g
+Suprahyoid muscles.g	Muscles of neck.g
+Suprahyoid region.g	Anterior region of neck.g
+Sutures.g	Fibrous joints.g
+Symphysis.g	Cartilaginous joints.g
+Synarthrosis.g	Joints.g
+Synchondroses.g	Cartilaginous joints.g
+Syndesmoses.g	Fibrous joints.g
+Synostosis.g	Joints.g
+Synovial bursae.g	Muscular system.g
+Synovial joint.g	Joints.g
+Synovial joints of free lower limb.g	Joints of free lower limb.g
+Synovial joints of free upper limb.g	Joints of free upper limb.g
+Synovial joints of larynx.g	Laryngeal joints.g
+Synovial joints of pectoral girdle.g	Joints of pectoral girdle.g
+Synovial joints of pelvic girdle.g	Joints of pelvic girdle.g
+Synovial joints of thorax.g	Thoracic joints.g
+Synovial joints of vertebral column.g	Joints of vertebral column.g
+Systemic arteries.g	Arterial system.g
+Systemic veins.g	Venous system.g
+Taeniae coli.g	Colon.g
+Talocrural region.g	Regions of lower limb.g
+Tarsal bones.g	Bones of foot.g
+Tarsometatarsal joints.g	Joints of foot.g
+Tectum of midbrain.g	Midbrain.g
+Teeth.g	Skeletal system.g
+Tegmentum of midbrain.g	Cerebral peduncle.g
+Tegmentum of pons.g	Pons.r
+Telencephalon.g	Cerebrum.g
+Temporal lobe.g	Telencephalon.g
+Temporomandibular joint.g	Joints of skull.g
+Tendon sheaths of digits of hand.g	Tendon sheaths of upper limb.g
+Tendon sheaths of lower limb.g	Muscular system of lower limb.g
+Tendon sheaths of toes.g	Tendon sheaths of lower limb.g
+Tendon sheaths of upper limb.g	Muscular system of upper limb.g
+Tendon sheaths.g	Muscular system.g
+Thoracic cavity.g	Visceral systems.g
+Thoracic joints.g	Joints.g
+Thoracic lymph nodes.g	Lymph nodes.g
+Thoracic nerves.g	Spinal nerves.g
+Thoracic part of muscular system.g	Muscular system.g
+Thoracic skeleton.g	Skeletal system.g
+Thoracic vertebrae.g	Vertebral column.g
+Thoracolumbar fascia.g	Fasciae.g
+Thoracolumbar part of autonomic division.g	Autonomic division of peripheral nervous system.g
+Thymus.g	Primary lymphoid organs.g
+Thyrohyoid membrane.g	Fibrous joints of larynx.g
+Tibial tarsal tendon sheaths.g	Tendon sheaths of lower limb.g
+Tibiofibular syndesmosis.g	Fibrous joints of free lower limb.g
+Tracheobronchial tree.g	Respiratory system.g
+Transversospinal muscles.g	Epaxial muscles.g
+Trapezius muscle.g	Hypaxial muscles of back.g
+Tributaries of hepatic portal vein.g	Hepatic portal vein.g
+Triceps brachii muscle.g	Posterior compartment of arm.g
+True ribs.g	Ribs.g
+Uncovertebral joints.g	Synovial joints of vertebral column.g
+Union of brachiocephalic veins.g	Superior vena cava
+Urinary system.g	Visceral systems.g
+Valvular complex of heart.g	Heart.g
+Venous system.g	None
+Vertebral column.g	Skeletal system.g
+Visceral abdominal lymph nodes.g	Abdominal lymph nodes.g
+Visceral fasciae of abdominopelvic cavity.g	Abdominopelvic cavity.g
+Visceral part of autonomic division.g	Autonomic division of peripheral nervous system.g
+Visceral pelvic lymph nodes.g	Pelvic lymph nodes.g
+Visceral systems.g	None
+Viscerocranium.g	Axial skeleton.g
+Walls of lateral ventricle.g	Telencephalon.g
+White matter of diencephalon.g	Diencephalon.g
+White matter of spinal cord.g	Spinal cord.g
+White matter.g	Central nervous system.g
+Zygapophysial joints.g	Synovial joints of vertebral column.g

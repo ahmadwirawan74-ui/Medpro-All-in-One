@@ -1,0 +1,70 @@
+/* ---------- Lab & AGD ---------- */
+.mp-lab-body { display: flex; flex-direction: column; gap: 10px; }
+.mp-lab-form { flex-wrap: wrap; }
+.mp-lab-form .mp-md-field { min-width: 120px; flex: 1 1 120px; }
+.mp-lab-steps { display: flex; flex-direction: column; gap: 6px; }
+.mp-lab-step { display: flex; gap: 10px; align-items: flex-start; padding: 9px 12px; border-radius: 14px; border: 1px solid var(--mp-line); background: var(--mp-surface); animation: mp-md-up .3s ease both; }
+.mp-lab-stepn { width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; font-size: 12px; font-weight: 900; background: var(--mp-panel); flex: none; }
+.mp-lab-step.is-red { border-left: 4px solid #ef4444; } .mp-lab-step.is-amber { border-left: 4px solid #f59e0b; } .mp-lab-step.is-ok { border-left: 4px solid #16a34a; }
+.mp-lab-stepv { font-weight: 700; font-size: 13.5px; }
+.mp-lab-sum { padding: 12px 14px; border-radius: 16px; background: linear-gradient(135deg, color-mix(in srgb, #f59e0b 14%, var(--mp-surface)), var(--mp-surface)); border: 1px solid color-mix(in srgb, #f59e0b 35%, var(--mp-line)); margin: 8px 0; }
+.mp-lab-sumv { font-size: 1.1em; font-weight: 850; }
+.mp-lab-out { display: flex; flex-direction: column; gap: 8px; }
+.mp-lab-ecards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 8px; }
+.mp-lab-ecard { padding: 11px 13px; border-radius: 14px; border: 1px solid var(--mp-line); background: var(--mp-surface); display: flex; flex-direction: column; gap: 3px; animation: mp-md-up .3s ease both; }
+.mp-lab-ecard.is-amber { border-left: 4px solid #f59e0b; } .mp-lab-ecard.is-red { border-left: 4px solid #ef4444; }
+.mp-lab-ev { font-size: 1.2em; font-weight: 850; font-variant-numeric: tabular-nums; }
+.mp-lab-adro { display: flex; flex-direction: column; gap: 2px; margin-top: 4px; }
+.mp-lab-ref { display: flex; flex-direction: column; }
+.mp-lab-row { display: flex; gap: 10px; align-items: center; padding: 7px 4px; border-bottom: 1px solid var(--mp-line); }
+.mp-lab-val { font-weight: 750; font-variant-numeric: tabular-nums; text-align: right; flex: none; max-width: 48%; font-size: 13px; }
+/* ---------- EKG & radiologi ---------- */
+.mp-ekg-body { display: flex; flex-direction: column; gap: 10px; }
+.mp-ekg-svg { display: block; width: 100%; height: auto; background: #fff7f7; border-radius: 10px; }
+.mp-ekg-g1 { fill: none; stroke: #fbcfd1; stroke-width: .5; }
+.mp-ekg-g2 { fill: none; stroke: #f59ea4; stroke-width: 1; }
+.mp-ekg-trace { fill: none; stroke: #111827; stroke-width: 1.6; stroke-linejoin: round; }
+.mp-ekg-lead { font-size: 9px; fill: #9f1239; font-weight: 700; }
+.mp-ekg-strip, .mp-ekg-demo { border-radius: 12px; overflow-x: auto; border: 1px solid #fecdd3; }
+.mp-ekg-strip .mp-ekg-svg, .mp-ekg-demo .mp-ekg-svg { min-width: 520px; }
+.mp-ekg-card { padding: 12px; border-radius: 18px; border: 1px solid var(--mp-line); background: var(--mp-surface); display: flex; flex-direction: column; gap: 10px; animation: mp-md-up .3s ease both; }
+.mp-ekg-card-h { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; font-size: 15px; }
+.mp-ekg-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 8px; }
+.mp-ekg-col { padding: 9px 11px; border-radius: 12px; background: var(--mp-panel); }
+.mp-ekg-col.is-tx { background: color-mix(in srgb, #16a34a 8%, var(--mp-panel)); }
+.mp-ekg-col .mp-mx-list { font-size: 12.5px; }
+.mp-ekg-quiz { display: flex; flex-direction: column; gap: 8px; }
+.mp-ekg-why { padding: 6px 10px; border-radius: 10px; background: var(--mp-panel); }
+.mp-ekg-res { font-weight: 750; padding: 8px 0 0; font-size: 13.5px; display: flex; flex-direction: column; gap: 4px; }
+.mp-ekg-axis { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+.mp-ekg-axis .mp-ekg-res { flex: 1 1 220px; }
+.mp-ekg-dialsvg { width: 180px; height: 180px; }
+.mp-ekg-s-norm { fill: color-mix(in srgb, #16a34a 30%, transparent); } .mp-ekg-s-right { fill: color-mix(in srgb, #0ea5e9 28%, transparent); } .mp-ekg-s-ext { fill: color-mix(in srgb, #ef4444 26%, transparent); } .mp-ekg-s-left { fill: color-mix(in srgb, #f59e0b 30%, transparent); }
+.mp-ekg-dialt { font-size: 6.5px; fill: var(--text-muted); font-weight: 700; }
+.mp-ekg-needle { stroke: #111827; stroke-width: 2.4; stroke-linecap: round; }
+.mp-cxr-wrap { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px; align-items: start; }
+.mp-cxr-svg { width: 100%; height: auto; border-radius: 14px; display: block; }
+.mp-cxr-info { display: flex; flex-direction: column; gap: 8px; }
+@container mp (max-width: 620px) { .mp-cxr-wrap { grid-template-columns: 1fr; } }
+/* ---------- Jaga & SBAR ---------- */
+.mp-jg-add { display: flex; flex-direction: column; gap: 8px; }
+.mp-jg-addrow { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.mp-jg-text { flex: 1 1 240px; min-width: 0; }
+.mp-jg-time { width: 110px; }
+.mp-jg-pt { max-width: 220px; }
+.mp-jg-list { display: flex; flex-direction: column; gap: 5px; margin-top: 6px; }
+.mp-dz-cat.is-late { color: #dc2626; }
+.mp-jg-row { display: flex; align-items: center; gap: 10px; padding: 9px 11px; border-radius: 14px; border: 1px solid var(--mp-line); background: var(--mp-surface); animation: mp-md-up .25s ease both; }
+.mp-jg-row.is-late { border-left: 4px solid #ef4444; background: color-mix(in srgb, #ef4444 5%, var(--mp-surface)); }
+.mp-jg-row.is-pri .mp-jg-t { font-weight: 800; }
+.mp-jg-row.is-done { opacity: .6; } .mp-jg-row.is-done .mp-jg-t { text-decoration: line-through; }
+.mp-jg-cb { width: 20px; height: 20px; accent-color: #16a34a; flex: none; }
+.mp-jg-t { font-size: 13.5px; font-weight: 650; }
+.mp-jg-meta { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin-top: 2px; }
+.mp-jg-due { font-size: 12px; font-weight: 750; color: #0369a1; font-variant-numeric: tabular-nums; }
+.mp-jg-row.is-late .mp-jg-due { color: #dc2626; }
+.mp-jg-sbars { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 10px; }
+.mp-jg-sbar { padding: 12px; border-radius: 16px; border: 1px solid var(--mp-line); background: var(--mp-surface); display: flex; flex-direction: column; gap: 8px; border-top: 4px solid #0284c7; }
+.mp-jg-sbar-h { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+.mp-jg-sbarta { font-size: 12.5px; line-height: 1.55; min-height: 150px; }
+@container mp (max-width: 520px) { .mp-jg-sbars { grid-template-columns: 1fr; } .mp-jg-pt { max-width: 100%; flex: 1 1 100%; } }

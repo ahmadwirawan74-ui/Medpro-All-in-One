@@ -1,0 +1,9 @@
+{
+	"id": "medpro-all-in-one",
+	"name": "MedPro All In One",
+	"version": "1.1.0",
+	"minAppVersion": "1.4.0",
+	"description": "Asisten klinis lengkap: penyakit SKDI 2019, atlas anatomi 3D, pemeriksaan fisik & OSCE, database obat, CPPT dengan ekspor PDF, jaga & SBAR, resep, lab & AGD, EKG, dan kalkulator antidot.",
+	"author": "Ahmad Wirawan",
+	"isDesktopOnly": false
+}
